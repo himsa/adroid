@@ -1,0 +1,20 @@
+{
+    "symbol": "AAPL",
+    "historical": [
+        {
+            "date": "2023-01-20",
+            "open": 135.28,
+            "high": 135.28,
+            "low": 135.28,
+            "close": 135.28,
+            "adjClose": 135.28,
+            "volume": 74853563,
+            "unadjustedVolume": 74853563,
+            "change": 135.28,
+            "changePercent": 135.28,
+            "vwap": 135.28,
+            "label": "January 20, 23",
+            "changeOverTime": 135.28
+        }
+    ]
+}
